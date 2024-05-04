@@ -1,5 +1,5 @@
 CC = javac
-SRCS = App.java GUI.java
+SRCS = App.java GUI.java Player.java AI.java Engine.java
 
 all: compile
 
